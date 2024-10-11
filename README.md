@@ -1,4 +1,4 @@
-Dorkbotlondon
+dorkbot bristol website - a fork of [dorkbotlondon](dorkbotlondon.org)
 ===================
 
 How to add Dorkbot events

@@ -1,3 +1,32 @@
+pervasive_media_studio:
+    where:
+        Pervasive Media Studio, Watershed, 1 Canon's Road, Harbourside, Bristol, BS1 5TX
+    where:
+    where_html: |
+        Pervasive Media Studio, Watershed, <a href="https://maps.app.goo.gl/811DULtUe2k752zR9">1 Canon's Road, Harbourside, Bristol, BS1 5TX</a>
+    directions: |
+        <b>==== How to get to Pervasive Media Studio: ====</b>
+
+        The Pervasive Media Studio is located in the Watershed building on
+        Bristol's Harbourside. The address is:
+
+        Pervasive Media Studio
+        Watershed
+        1 Canon's Road
+        Harbourside
+        Bristol
+        BS1 5TX
+
+        To access the Studio, please go to the Main Watershed Box Office entrance and go 
+        upstairs to the Café Bar. Walk across the cafe bar, turn right and walk towards 
+        the double doors. Go through into the corridor and walk all the way down until you 
+        reach the Studio. If the door to the studio is closed ring the bell and say you're 
+        here for dorkbot. The Studio is wheelchair accessible and there is an accessible
+         and gender neutral toilet. There is also a baby change area.
+
+
+        <a href="https://www.watershed.co.uk/studio/about/visit-access">Accessibility information</a>
+
 limehouse_town_hall:
     where:
         The Boxing Club, Limehouse Town Hall, 646 Commercial Road, E14 7HA
